@@ -134,23 +134,6 @@ I build backend services and AI-powered apps: REST APIs, async/event-driven work
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ishathakur25&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5A0&icon_color=00F5A0" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishathakur25&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5A0" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ishathakur25&theme=tokyonight&hide_border=true&background=0d1117&ring=00F5A0&fire=00F5A0&currStreakLabel=00F5A0" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ishathakur25&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00F5A0&line=00F5A0&point=ffffff" />
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 <p align="center">
