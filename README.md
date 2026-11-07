@@ -138,15 +138,15 @@ I build backend services and AI-powered apps: REST APIs, async/event-driven work
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5A0&icon_color=00F5A0" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5A0" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishathakur25&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5A0" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=00F5A0&fire=00F5A0&currStreakLabel=00F5A0" />
+  <img src="https://streak-stats.demolab.com/?user=Ishathakur25&theme=tokyonight&hide_border=true&background=0d1117&ring=00F5A0&fire=00F5A0&currStreakLabel=00F5A0" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00F5A0&line=00F5A0&point=ffffff" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ishathakur25&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00F5A0&line=00F5A0&point=ffffff" />
 </p>
 
 ---
@@ -154,9 +154,9 @@ I build backend services and AI-powered apps: REST APIs, async/event-driven work
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="mailto:ishathakur2504@gmail.com"><img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=00F5A0" /></a>
-  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00F5A0" /></a>
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00F5A0" /></a>
+  <a href="mailto:ishathakur457@gmail.com"><img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=00F5A0" /></a>
+  <a href="https://ishathakur.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00F5A0" /></a>
+  <a href="https://www.linkedin.com/in/isha-thakur2504"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00F5A0" /></a>
 </p>
 
 <p align="center">
