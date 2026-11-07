@@ -13,8 +13,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME"><img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=00f5a0&style=flat-square" /></a>
-  <a href="mailto:ishathakur2504@gmail.com"><img src="https://img.shields.io/badge/Email-ishathakur2504%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Ishathakur25"><img src="https://komarev.com/ghpvc/?username=Ishathakur25&label=Profile+Views&color=00f5a0&style=flat-square" /></a>
+  <a href="mailto:ishathakur457@gmail.com"><img src="https://img.shields.io/badge/Email-ishathakur457%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
